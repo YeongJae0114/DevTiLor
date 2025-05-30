@@ -1,4 +1,4 @@
-package com.toy.devtilor.devtilor.exception.user;
+package com.toy.devtilor.devtilor.domain.user.exception.user;
 
 
 import com.toy.devtilor.devtilor.common.exception.BusinessException;
